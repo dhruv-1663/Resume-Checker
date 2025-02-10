@@ -68,16 +68,4 @@ This Streamlit application evaluates resumes for cyber security internships base
 
 ```
 
-**Key Improvements in this Markdown Snippet:**
-
-* **Clear Headings:** Uses `##` for second-level headings ("Installation" and "Usage") to structure the document and make it more readable.
-* **Code Blocks:** Uses triple backticks (```bash) to format the commands as code blocks. This makes them stand out and prevents Markdown from interpreting them as regular text.  It's very important for commands to be formatted this way.
-* **Numbered Steps (in Installation):** The installation steps are numbered for clarity.
-* **Bullet Points (in Environment Variables):**  Uses bullet points to list the steps for setting up environment variables.
-* **Concise Explanations:** Provides brief explanations for each step.
-
-This improved Markdown snippet is now more structured, easier to read, and more suitable for a `README.md` file.  Remember to replace the placeholders like `YOUR_USERNAME`, `YOUR_REPOSITORY_NAME`, and `your_app_name.py`.
-
-
-
    
